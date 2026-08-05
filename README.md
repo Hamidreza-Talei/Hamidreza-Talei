@@ -4,7 +4,7 @@
 
 ### M.Sc. AI @ University of Tehran
 
-Machine Learning • Deep Learning • NLP • LLMs • RAG • AI Agents • RLHF
+Machine Learning • Deep Learning • NLP • LLMs • RAG • AI Agents • Alignment
 
 </div>
 
@@ -12,11 +12,21 @@ Machine Learning • Deep Learning • NLP • LLMs • RAG • AI Agents • RL
 
 ## About Me
 
-I am an M.Sc. student in Artificial Intelligence at the University of Tehran, interested in building and evaluating practical AI systems.
+## About Me
 
-My experience includes working with large language models, retrieval-augmented generation, AI agents, model APIs, instruction tuning, and reinforcement learning from human feedback.
+I am an M.Sc. student in Artificial Intelligence at the University of Tehran, focused on building and evaluating practical AI systems, particularly in large language models and generative AI.
 
-I am currently organizing and publishing selected university projects in machine learning, deep learning, natural language processing, and generative AI.
+Through academic and personal projects, I have worked on LLM-based applications, including retrieval-augmented generation (RAG) pipelines, AI agents, model API integration, and evaluation workflows. I have also experimented with language model adaptation techniques such as supervised fine-tuning (SFT), parameter-efficient fine-tuning (PEFT), reward modeling, and preference-based optimization methods.
+
+I am interested in bridging AI research and real-world applications by developing efficient, reproducible, and well-documented machine learning systems.
+
+I am currently organizing and publishing selected projects in machine learning, deep learning, natural language processing, and generative AI.
+
+## Teaching Experience
+
+I have served as a Graduate Teaching Assistant for Machine Learning at the University of Tehran. My responsibilities included designing assignments, projects, and quizzes, reviewing student submissions, and supporting students in the practical implementation of machine learning concepts.
+
+I have also contributed to educational activities related to large language models by preparing practical exercises, project-based materials, and implementation-focused content.
 
 ## Areas of Interest
 
@@ -36,11 +46,15 @@ I am currently organizing and publishing selected university projects in machine
 
 **Machine Learning and Data**
 
-`PyTorch` `Scikit-learn` `Pandas` `NumPy`
+`PyTorch` `scikit-learn` `Pandas` `NumPy`
 
-**Generative AI**
+**LLMs and Generative AI**
 
-`Hugging Face Transformers` `LangChain` `LangGraph` `Vector Databases`
+`Hugging Face Transformers` `PEFT` `TRL` `LangChain` `LangGraph`
+
+**Retrieval and Vector Search**
+
+`Vector Databases`
 
 **Models and APIs**
 
@@ -59,5 +73,5 @@ I am currently organizing and publishing selected university projects in machine
 
 ## Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/hamidreza-talei-94b1a3427) •
+[LinkedIn](https://www.linkedin.com/in/hamidreza-talei) •
 [Email](mailto:hamidrezataleiardakani@gmail.com)
