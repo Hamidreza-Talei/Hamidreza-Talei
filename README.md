@@ -2,9 +2,9 @@
 
 # Hi, I'm Hamidreza Talei 👋
 
-### M.Sc. AI @ University of Tehran
+### M.Sc. Student in Artificial Intelligence @ University of Tehran
 
-Machine Learning • Deep Learning • NLP • LLMs • RAG • AI Agents • Alignment
+Machine Learning • Deep Learning • NLP • LLMs • RAG • AI Agents • Model Adaptation
 
 </div>
 
@@ -12,15 +12,11 @@ Machine Learning • Deep Learning • NLP • LLMs • RAG • AI Agents • Al
 
 ## About Me
 
-## About Me
+I am an M.Sc. student in Artificial Intelligence at the University of Tehran, focused on building and evaluating practical AI systems, particularly in natural language processing, large language models, and generative AI.
 
-I am an M.Sc. student in Artificial Intelligence at the University of Tehran, focused on building and evaluating practical AI systems, particularly in large language models and generative AI.
-
-Through academic and personal projects, I have worked on LLM-based applications, including retrieval-augmented generation (RAG) pipelines, AI agents, model API integration, and evaluation workflows. I have also experimented with language model adaptation techniques such as supervised fine-tuning (SFT), parameter-efficient fine-tuning (PEFT), reward modeling, and preference-based optimization methods.
+Through academic and personal projects, I have worked on retrieval-augmented generation pipelines, AI agents, model API integration, and evaluation workflows. I have also experimented with language model adaptation techniques, including supervised fine-tuning, parameter-efficient fine-tuning, reward modeling, and preference-based optimization.
 
 I am interested in bridging AI research and real-world applications by developing efficient, reproducible, and well-documented machine learning systems.
-
-I am currently organizing and publishing selected projects in machine learning, deep learning, natural language processing, and generative AI.
 
 ## Teaching Experience
 
@@ -35,8 +31,18 @@ I have also contributed to educational activities related to large language mode
 - Large Language Models
 - Retrieval-Augmented Generation
 - AI Agents and Agentic Workflows
-- Instruction Tuning and RLHF
+- Instruction Tuning and Preference Optimization
 - Applied AI Research
+
+## Featured Projects
+
+### [NLP Foundations from Scratch](https://github.com/Hamidreza-Talei/nlp-foundations-from-scratch)
+
+A collection of practical NLP implementations covering regular-expression-based text processing, edit distance, rule-based tokenization, BPE, WordPiece, and N-gram language modeling for Persian text.
+
+The project also includes text generation, perplexity evaluation, Laplace smoothing, interpolation, backoff, and temperature-controlled sampling.
+
+**Technologies:** `Python` `Pandas` `NumPy` `Hugging Face Tokenizers` `Jupyter Notebook`
 
 ## Tools and Technologies
 
@@ -54,11 +60,15 @@ I have also contributed to educational activities related to large language mode
 
 **Retrieval and Vector Search**
 
-`Vector Databases`
+`Vector Databases` `Embeddings` `Semantic Search`
 
-**Models and APIs**
+**Model APIs**
 
-`OpenAI` `Gemini` `Llama` `Qwen` `Gemma` `FLAN-T5` `BART` `GPT-2`
+`OpenAI API` `Gemini API`
+
+**Model Families**
+
+`Llama` `Qwen` `Gemma` `FLAN-T5` `BART` `GPT-2`
 
 **Development Tools**
 
@@ -66,10 +76,10 @@ I have also contributed to educational activities related to large language mode
 
 ## Current Focus
 
-- Publishing selected AI and machine learning university projects
+- Publishing selected machine learning and NLP projects
 - Developing RAG and agent-based applications
 - Experimenting with instruction tuning and small language models
-- Improving reproducibility and documentation of AI projects
+- Improving the reproducibility and documentation of AI systems
 
 ## Connect with Me
 
